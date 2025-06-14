@@ -32,7 +32,7 @@
 2. Install the required Python package using pip:
 `pip install pynput`
 
-3. Run the script
+3. Run the script:
 `python fn_xp_tool.py`
 
 ## Usage
