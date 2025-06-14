@@ -43,7 +43,7 @@ Before using the **Lego AFK** macro:
 
 1. In Fortnite, set the mode to **Battle Royale**.
 2. Change your **Fire** or **Fire Weapon** keybind to **P**.
-3. Disable **Auto Claim Rewards** for all battle and brick passes.
+3. Disable **Auto Claim Rewards** for all passes.
 4. Load into your **Lego sandbox world**.
 5. Press the **Lego AFK** button in the tool to start the macro.
 
